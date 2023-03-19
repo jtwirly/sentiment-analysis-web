@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <header>
         <h1>VibeCheck</h1>
-        <p>Curious whether that email or your partner's text is good vibes, bad vibes, or somewhere in between? Copy it into VibeCheck, and get AI's opinion on the matter.</p>
+        <p>Curious whether that email, your partner's text or a message you've drafted is giving good vibes, bad vibes, or somewhere in between? Copy it into VibeCheck, and get AI's opinion on the matter.</p>
       </header>
       <main>
         <SentimentAnalysisForm />

@@ -1,4 +1,4 @@
-#VibeCheck
+# VibeCheck
 
 VibeCheck is a web application that uses AI to analyze the sentiment of text input, giving an opinion on whether it has good vibes, bad vibes, or somewhere in between. It's perfect for quickly analyzing emails, messages, or any other written communication to get a sense of the emotional tone.
 
